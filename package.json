@@ -1,0 +1,28 @@
+{
+  "name": "first-page-nodejs",
+  "version": "1.0.0",
+  "description": "First WebSite with NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "dev": "nodemon src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiEnGG/First-Page-NodeJS.git"
+  },
+  "author": "DiEnGG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiEnGG/First-Page-NodeJS/issues"
+  },
+  "homepage": "https://github.com/DiEnGG/First-Page-NodeJS#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
